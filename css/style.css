@@ -1,0 +1,32 @@
+.body{
+    font-size: 20px;
+}
+.body{
+    font-family: Roboto;
+}
+
+.navbar {
+    background-color: #9836AC;
+
+}
+.quem-somos{
+    background-color: #ffffff;
+    color: #000000;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.nav-item{
+    margin-inline: 10px;
+}
+.nav-item-search{
+    margin-left: 100px;
+}
+.parceiros{
+    background-color: #cfe2ff;
+}
+.bg-footer{
+    background-color: #000000;
+    color: #cfe2ff;
+}
